@@ -1,2 +1,4 @@
 # Exercise_Unit5_website
 Learning exercise to Development Environments
+This repository contains a simple website created using HTML and CSS.
+To open the site, download or clone the repository and open the index.html file in your browser.
